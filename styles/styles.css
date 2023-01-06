@@ -1,0 +1,103 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/*header section*/
+.header-bg {
+  background-image: url(../images/banner/banner2.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 75%;
+}
+.header-section {
+  padding: 170px 200px 300px 800px;
+  text-align: right;
+}
+.header-section-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+}
+.header-section-descrip {
+  font-size: 18px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+.header-section-btn {
+  font-weight: 600;
+  font-size: 20px;
+  text-align: right;
+  padding: 20px 15px;
+  border: 0;
+  border-radius: 10px;
+  background-color: orange;
+}
+/*failure section*/
+.my-plan {
+  padding: 50px 230px;
+  text-align: center;
+}
+.my-plan-title {
+  margin: 0px 200px;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.my-plan-goals {
+  display: flex;
+  gap: 24px;
+}
+.my-plan-goals .goals {
+  padding: 0 30px;
+}
+.goals-logo {
+  margin: 10px;
+  border-radius: 10px;
+  width: 50px;
+}
+.goals-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+.goals-descrip {
+  ont-weight: 500;
+  font-size: 18px;
+}
+/*footer*/
+.footer-container {
+  display: flex;
+  background: #151414;
+  padding: 100px 200px;
+}
+.footer-container-title {
+  padding-bottom: 10px;
+  font-weight: 700;
+  font-size: 35px;
+  color: #f8f8f8;
+}
+.footer-container-descrip {
+  color: #ffffff;
+  padding-bottom: 10px;
+  padding-right: 200px;
+}
+div,
+a {
+  text-decoration: none;
+}
+.form {
+  padding: 10px;
+}
+.email {
+  padding: 20px 15px;
+  border: 0;
+  border-radius: 10px;
+}
+.btn {
+  font-weight: 600;
+  font-size: 20px;
+  color: #f15b22;
+  padding: 20px 15px;
+  border: 0;
+  border-radius: 10px;
+}
