@@ -100,6 +100,31 @@
   font-size: 18px;
   padding-bottom: 15px;
 }
+/*section watch*/
+.watch {
+  margin: 100px 100px;
+}
+.section-watch {
+  background-image: linear-gradient(to right, #ff0000, #2222229c),
+    url(../images/watch.png);
+  border-radius: 10px;
+  padding: 100px 40px;
+}
+.section-watch-description {
+  margin-top: auto;
+  text-align: left;
+}
+.section-watch-title {
+  font-weight: 700;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.section-watch-btn {
+  color: #f15b22;
+  border: 0;
+  border-radius: 5px;
+  padding: 15px 30px;
+}
 /*footer*/
 .footer-container {
   display: flex;
@@ -139,7 +164,7 @@ a {
   font-weight: 600;
   font-size: 20px;
   color: #f15b22;
-  padding: 20px 15px;
+  padding: 15px 15px;
   border: 0;
   border-radius: 10px;
 }
