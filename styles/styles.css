@@ -63,6 +63,67 @@
 .tick-mark {
   color: rgb(47, 215, 47);
 }
+/*my service*/
+.my-service {
+  margin: 100px 0;
+  background-color: blanchedalmond;
+  padding: 100px;
+  height: 100%;
+}
+.service-title {
+  font-weight: 700;
+  font-size: 35px;
+  border-bottom: 2 solid black;
+  text-align: center;
+  padding-bottom: 15px;
+}
+.service-description {
+  text-align: center;
+  padding: 15px 200px;
+}
+.service-container {
+  display: flex;
+  gap: 24px;
+  padding: 25px 5px;
+}
+.service-container-one {
+  background-color: white;
+  margin: 25px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 15px 15px 3px 3px gray;
+}
+.service-container-two {
+  background-color: white;
+  margin: 25px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 15px 15px 3px 3px gray;
+}
+.service-container-three {
+  background-color: white;
+  margin: 25px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 15px 15px 3px 3px gray;
+}
+.service-container-four {
+  background-color: white;
+  margin: 25px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 15px 15px 3px 3px gray;
+}
+.service-container-image {
+  width: 30px;
+  padding: 10px 25px 0px 25px;
+}
+.service-container-title {
+  padding: 5px 5px;
+}
+.service-container-description {
+  padding: 5px 5px;
+}
 /*my plan section*/
 .my-plan {
   padding: 20px 230px 30px 230px;
