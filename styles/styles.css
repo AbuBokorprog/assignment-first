@@ -17,11 +17,13 @@
   font-weight: 700;
   font-size: 40px;
   color: #151414;
+  width: 100%;
 }
 .header-section-descrip {
   font-size: 18px;
   padding-top: 20px;
   padding-bottom: 15px;
+  width: 100%;
 }
 .header-section-btn {
   font-weight: 600;
@@ -35,8 +37,8 @@
 /*failure section*/
 .failure-container {
   display: flex;
-  gap: 24px;
-  padding: 100px 150px 0 150px;
+  gap: 45px;
+  padding: 100px;
 }
 .failure-img .image {
   width: 100%;
@@ -45,6 +47,7 @@
 .failure-descrip-container {
   width: 100%;
   text-align: left;
+  padding: 200px 0px 20px 100px;
 }
 .failure-title {
   font-weight: 700;
@@ -52,6 +55,7 @@
   padding-bottom: 15px;
 }
 .failure-descrip {
+  padding: 0 150px 0 0;
 }
 .failure-ul {
   padding-top: 10px;
@@ -89,27 +93,6 @@
   border-radius: 10px;
   box-shadow: 15px 15px 3px 3px gray;
 }
-/*.service-container-two {
-  background-color: white;
-  margin: 25px;
-  padding: 20px 30px;
-  border-radius: 10px;
-  box-shadow: 15px 15px 3px 3px gray;
-}
-.service-container-three {
-  background-color: white;
-  margin: 25px;
-  padding: 20px 30px;
-  border-radius: 10px;
-  box-shadow: 15px 15px 3px 3px gray;
-}
-.service-container-four {
-  background-color: white;
-  margin: 25px;
-  padding: 20px 30px;
-  border-radius: 10px;
-  box-shadow: 15px 15px 3px 3px gray;
-}*/
 .service-container-image {
   width: 30px;
   padding: 10px 25px 0px 25px;
